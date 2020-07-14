@@ -2,5 +2,5 @@
 Amazon interface designed using React!
 
 ## Subheader
-
-Live Amazon Clone.
+Amazon Clone with User Authentication 
+and hosting with Firebase.
